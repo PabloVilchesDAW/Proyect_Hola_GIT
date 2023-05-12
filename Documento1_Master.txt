@@ -1,4 +1,9 @@
 fecha 09/05/23
 Mi nombre es Pablo Jose Vilches Fernandez
 Viernes 12/05/23
+<<<<<<< HEAD
 Master: Agregamos esta linea para poder ver el log de todo. Es una prueba
+=======
+Hemos creado la Rama1
+Viernes 12/05/23 - Rama1
+>>>>>>> rama1
